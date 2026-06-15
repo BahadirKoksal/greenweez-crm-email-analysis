@@ -2,7 +2,6 @@
 
 > **Goal:** Analyze email campaign performance to identify metrics that increase customer engagement and drive conversions.
 
-![Dashboard Preview](CRM%20at%20Greenweez.png)
 
 🔗 **[View Live Google Sheet](https://docs.google.com/spreadsheets/d/1utH2ybYObyBqNPfuwFVq2SDRNkMwiq9OwPKPw1gISUc/edit?gid=759219351#gid=759219351)**
 
